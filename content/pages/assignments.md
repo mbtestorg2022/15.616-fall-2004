@@ -15,33 +15,356 @@ The exercises heavily emphasize the required readings. The questions and format 
 
 It is not expected that students will need the full three hours to complete the exercise. I use this format so that a student does not have to write fast to do well. This may be of special importance to students for whom English is a second language.
 
-| LEC # | TOPICS | assignments |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Module I - Basic Building Blocks**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| 2 | The Law of Duties | &nbsp; |
-| 3 | The Hard Edge of Regulation | &nbsp; |
-| 4 | Contract I | &nbsp; |
-| 5 | Contracts II | &nbsp; |
-| {{< td-colspan 5 >}}**Module II - Launching, Growing, and Exiting a Venture**{{< /td-colspan >}} |||||
-| 6 | Setting Up a New Venture  {{< br >}}  {{< br >}}Guest: Joe Hadzima, Main St. Partners | &nbsp; |
-| 7 | Financing the Venture I - Venture Capital  {{< br >}}  {{< br >}}Guest: Kenneth Gordon, Testa Hurwitz & Thibeault | &nbsp; |
-| 8 | Financing the Venture II - Going Public  {{< br >}}  {{< br >}}Guest: Kenneth Gordon, Testa Hurwitz & Thibeault | &nbsp; |
-| 9 | Joint Ventures and M&A | 1st exercise available two days after lecture 9 at 9 a.m. and is to be completed the next day at 9 p.m. ([PDF]({{< baseurl >}}/resources/ex1)) |
-| 10 | Employment; Module Wrap-up | &nbsp; |
-| {{< td-colspan 3 >}}**Module III - Innovation, Commercialization, and Intellectual Property**{{< /td-colspan >}} |||
-| 11 | Introduction to Technology Transfer | &nbsp; |
-| 12 | Copyrights and Software | &nbsp; |
-| 13 | Patents I: The Basics of Patent Law  {{< br >}}  {{< br >}}Guest: Bo Pasternack, Choate Hall | &nbsp; |
-| 14 | Patents II: Breakthrough Technologies - The Example of Biotechnology Patents  {{< br >}}  {{< br >}}Guest: Anita Meiklejohn, Fish & Richardson | &nbsp; |
-| 15 | Antitrust, JVs and IP | &nbsp; |
-| 16 | IP Rights and Business Strategies I  {{< br >}}  {{< br >}}Guest: Sarah Cabot, Mintz Levin Cohn Ferris Glovsky & Popeo | &nbsp; |
-| 17 | IP Rights and Business Strategies II  {{< br >}}  {{< br >}}Guest: Joe Hadzima, Main St. Partners | &nbsp; |
-| 18 | Shifting Business Models and the Law: The Example of the Internet  {{< br >}}  {{< br >}}Guest: Jorge Contreras, Hale & Dorr | &nbsp; |
-| 19 | International IP Protection; Licensing; Wrap-up | &nbsp; |
-| {{< td-colspan 3 >}}**Module IV - Innovation: The Regulatory and Liability Risks**{{< /td-colspan >}} |||
-| 20 | Litigation | &nbsp; |
-| 21 | The Inside Counsel's Perspective  {{< br >}}  {{< br >}}Guests: Tom DesRosiers,  {{< br >}}Genzyme | 2nd exercise is available the day after lecture 21 at noon ([PDF]({{< baseurl >}}/resources/ex2)) |
-| 22 | Bankruptcy and Reorganization  {{< br >}}  {{< br >}}Guest: Jeanne Darcey, Palmer & Dodge | 2nd exercise is due one day after lecture 22 (which is two days after it was made available) at 9 p.m. |
-| 23 | National Security and Dealing with Government | &nbsp; |
-| 24 | Products Liability  {{< br >}}  {{< br >}}Guest: David Geiger, Foley Hoag |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+assignments
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module I - Basic Building Blocks**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Law of Duties
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Hard Edge of Regulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Contract I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Contracts II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Module II - Launching, Growing, and Exiting a Venture**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Setting Up a New Venture  
+  
+Guest: Joe Hadzima, Main St. Partners
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Financing the Venture I - Venture Capital  
+  
+Guest: Kenneth Gordon, Testa Hurwitz & Thibeault
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Financing the Venture II - Going Public  
+  
+Guest: Kenneth Gordon, Testa Hurwitz & Thibeault
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Joint Ventures and M&A
+{{< tdclose >}}
+{{< tdopen >}}
+1st exercise available two days after lecture 9 at 9 a.m. and is to be completed the next day at 9 p.m. ([PDF]({{< baseurl >}}/resources/ex1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Employment; Module Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module III - Innovation, Commercialization, and Intellectual Property**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Technology Transfer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Copyrights and Software
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Patents I: The Basics of Patent Law  
+  
+Guest: Bo Pasternack, Choate Hall
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Patents II: Breakthrough Technologies - The Example of Biotechnology Patents  
+  
+Guest: Anita Meiklejohn, Fish & Richardson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Antitrust, JVs and IP
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+IP Rights and Business Strategies I  
+  
+Guest: Sarah Cabot, Mintz Levin Cohn Ferris Glovsky & Popeo
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+IP Rights and Business Strategies II  
+  
+Guest: Joe Hadzima, Main St. Partners
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Shifting Business Models and the Law: The Example of the Internet  
+  
+Guest: Jorge Contreras, Hale & Dorr
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+International IP Protection; Licensing; Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module IV - Innovation: The Regulatory and Liability Risks**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Litigation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The Inside Counsel's Perspective  
+  
+Guests: Tom DesRosiers,  
+Genzyme
+{{< tdclose >}}
+{{< tdopen >}}
+2nd exercise is available the day after lecture 21 at noon ([PDF]({{< baseurl >}}/resources/ex2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Bankruptcy and Reorganization  
+  
+Guest: Jeanne Darcey, Palmer & Dodge
+{{< tdclose >}}
+{{< tdopen >}}
+2nd exercise is due one day after lecture 22 (which is two days after it was made available) at 9 p.m.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+National Security and Dealing with Government
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Products Liability  
+  
+Guest: David Geiger, Foley Hoag
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
